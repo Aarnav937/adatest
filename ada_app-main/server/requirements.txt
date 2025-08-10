@@ -1,0 +1,73 @@
+# Core Flask and SocketIO
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+python-dotenv==1.0.0
+eventlet==0.35.2
+
+# AI and ML (Local Processing)
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.2
+diffusers==0.25.1
+accelerate==0.25.0
+safetensors==0.4.1
+
+# Document Processing (Local)
+PyPDF2==3.0.1
+python-docx==1.1.0
+openpyxl==3.1.2
+python-pptx==0.6.23
+Pillow==10.1.0
+pandas==2.1.4
+numpy==1.24.4
+
+# Translation (Local)
+googletrans==4.0.0rc1
+langdetect==1.0.9
+
+# QR Code Generation (Local)
+qrcode==7.4.2
+Pillow==10.1.0
+
+# Email Integration
+imaplib2==3.6
+smtplib2==0.2.1
+email-validator==2.1.0
+
+# Web Scraping
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+
+# Calendar and Task Management
+icalendar==5.0.7
+python-dateutil==2.8.2
+
+# Engineering Calculators
+scipy==1.11.4
+sympy==1.12
+
+# File Management
+pathlib2==2.3.7
+watchdog==3.0.0
+
+# Caching and Performance
+redis==5.0.1
+cachetools==5.3.2
+
+# Security and Configuration
+cryptography==41.0.8
+PyYAML==6.0.1
+
+# Existing Dependencies
+google-generativeai==0.3.2
+python-weather==0.1.0
+googlemaps==4.10.0
+websockets==12.0
+googlesearch-python==1.2.3
+
+# Development and Testing
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
